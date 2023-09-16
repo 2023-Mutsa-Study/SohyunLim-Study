@@ -1,6 +1,7 @@
 // const userName = "Max";
 // console.log(userName);
 //tsc app.ts --watch
+//tsc --init
 const button = document.querySelector("button")!;
 let appId = "abc";
 // button.addEventListener("click", () => {
